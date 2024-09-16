@@ -7,7 +7,7 @@
  ### [YouTube Demonstration](https://youtu.be/aYji5ssTIKU)
 
 <h2>Description</h2>
-In this project I go through the life cycle of a ticket from creation, to resolution. I make changes to the tickets when necessary like assigning the tickets, changing the SLA (Service Level Agreement), and commenting to create a thread of clear communication. 
+In this last section of the osTicket project, I go through the life cycle of a ticket from creation, to resolution. I make changes to the tickets when necessary like assigning the tickets, changing the SLA (Service Level Agreement), and commenting to create a thread of clear communication. 
 <br/>
 <br/>
 
